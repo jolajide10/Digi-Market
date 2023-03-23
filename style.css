@@ -932,6 +932,13 @@ form button {
 
 
 @media screen and (max-width: 768px){
+   #blog-container .blogs {
+        width: 95%;
+    }   
+    #blog-container .blogs img {
+        width: 104%;
+        border-radius: 19px;
+    }
     .header .header-logo img {
         width: 6rem;
         height: auto;
