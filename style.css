@@ -933,10 +933,10 @@ form button {
 
 @media screen and (max-width: 768px){
    #blog-container .blogs {
-        width: 95%;
+        width: 99%;
     }   
     #blog-container .blogs img {
-        width: 104%;
+        width: 100%;
         border-radius: 19px;
     }
     .header .header-logo img {
