@@ -285,11 +285,11 @@ div {
     color: #fff;
 }
 #hero span {
-    color: #61b752;
+    color: #f7ca3e;
     font-size: 20px;
 }
 #hero1 span {
-    color: #61b752;
+    color: #f7ca3e;
     font-size: 20px;
 }
 
@@ -743,8 +743,8 @@ h4 {
         cursor: pointer
     }
     #hero1 button:hover {
-        border: 1px solid #f44336;
-        background: #f44336;
+        border: 1px solid #f7ca3e;
+        background: #f7ca3e;
         transition: 0.5s;
     }
     /*/////////////////NEWSLETTER////////////????????????????*/
@@ -777,7 +777,7 @@ h4 {
     font-size: 30px;
 }
 #heroin, span{
-    color: #61b752;
+    color: #f7ca3e;
     margin-top: 10px;
     font-size: 15px;
  
@@ -830,8 +830,8 @@ form button {
     cursor: pointer
 }
 #hero2 button:hover {
-    border: 1px solid #f44336;
-    background: #f44336;
+    border: 1px solid #f7ca3e;
+    background: #f7ca3e;
     transition: 0.5s;
 }
 #notabout-notcontainer{
