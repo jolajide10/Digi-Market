@@ -939,6 +939,12 @@ form button {
         width: 100%;
         border-radius: 19px;
     }
+#blog-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 4vw;
+}
     .header .header-logo img {
         width: 6rem;
         height: auto;
