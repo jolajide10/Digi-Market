@@ -63,6 +63,9 @@ button.normal{
 body {
     width: 100%;
 }
+#menu-bar.fas.fa-bars:before {
+    color: #f7ca3e;
+  }
 
 
 
@@ -829,8 +832,8 @@ form button {
     cursor: pointer
 }
 #hero2 button:hover {
-    border: 1px solid #f44336;
-    background: #f44336;
+    border: 1px solid #f7ca3e;
+    background: #f7ca3e;
     transition: 0.5s;
 }
 #notabout-notcontainer{
